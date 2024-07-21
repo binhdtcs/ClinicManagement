@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach.Common\bin\Debug\net8.0\QuanLyPhongMach18.Common.deps.json
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach.Common\bin\Debug\net8.0\QuanLyPhongMach18.Common.runtimeconfig.json
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach.Common\bin\Debug\net8.0\QuanLyPhongMach18.Common.dll
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach.Common\bin\Debug\net8.0\QuanLyPhongMach18.Common.pdb
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach.Common\obj\Debug\net8.0\QuanLyPhongMach18.Common.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach.Common\obj\Debug\net8.0\QuanLyPhongMach18.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach.Common\obj\Debug\net8.0\QuanLyPhongMach18.Common.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach.Common\obj\Debug\net8.0\QuanLyPhongMach18.Common.AssemblyInfo.cs
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach.Common\obj\Debug\net8.0\QuanLyPhongMach18.Common.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach.Common\obj\Debug\net8.0\QuanLyPhongMach18.Common.dll
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach.Common\obj\Debug\net8.0\refint\QuanLyPhongMach18.Common.dll
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach.Common\obj\Debug\net8.0\QuanLyPhongMach18.Common.pdb
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach.Common\obj\Debug\net8.0\QuanLyPhongMach18.Common.genruntimeconfig.cache
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach.Common\obj\Debug\net8.0\ref\QuanLyPhongMach18.Common.dll

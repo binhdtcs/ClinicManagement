@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\QuanLyPhongMach18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B377FB4-C459-4595-A69E-C72B9CDC6CDE}|QuanLyPhongMach18.DAL\\QuanLyPhongMach18.DAL.csproj|c:\\users\\hp\\source\\repos\\quanlyphongmach18\\quanlyphongmach18.dal\\quanlyphongmach18.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B377FB4-C459-4595-A69E-C72B9CDC6CDE}|QuanLyPhongMach18.DAL\\QuanLyPhongMach18.DAL.csproj|solutionrelative:quanlyphongmach18.dal\\quanlyphongmach18.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1872D482-4810-4418-852D-11B0CF6DCE76}|QuanLyPhongMach18.BLL\\QuanLyPhongMach18.BLL.csproj|c:\\users\\hp\\source\\repos\\quanlyphongmach18\\quanlyphongmach18.bll\\service\\medicinesvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1872D482-4810-4418-852D-11B0CF6DCE76}|QuanLyPhongMach18.BLL\\QuanLyPhongMach18.BLL.csproj|solutionrelative:quanlyphongmach18.bll\\service\\medicinesvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLyPhongMach18.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\QuanLyPhongMach18\\QuanLyPhongMach18.DAL\\QuanLyPhongMach18.DAL.csproj",
+              "RelativeDocumentMoniker": "QuanLyPhongMach18.DAL\\QuanLyPhongMach18.DAL.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\QuanLyPhongMach18\\QuanLyPhongMach18.DAL\\QuanLyPhongMach18.DAL.csproj",
+              "RelativeToolTip": "QuanLyPhongMach18.DAL\\QuanLyPhongMach18.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T01:21:20.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedicineSvc.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\QuanLyPhongMach18\\QuanLyPhongMach18.BLL\\Service\\MedicineSvc.cs",
+              "RelativeDocumentMoniker": "QuanLyPhongMach18.BLL\\Service\\MedicineSvc.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\QuanLyPhongMach18\\QuanLyPhongMach18.BLL\\Service\\MedicineSvc.cs",
+              "RelativeToolTip": "QuanLyPhongMach18.BLL\\Service\\MedicineSvc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:13:27.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

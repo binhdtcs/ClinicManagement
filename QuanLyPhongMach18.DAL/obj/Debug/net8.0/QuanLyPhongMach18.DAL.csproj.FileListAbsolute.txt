@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\obj\Debug\net8.0\QuanLyPhongMach18.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\obj\Debug\net8.0\QuanLyPhongMach18.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\obj\Debug\net8.0\QuanLyPhongMach18.DAL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\obj\Debug\net8.0\QuanLyPhongMach18.DAL.AssemblyInfo.cs
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\obj\Debug\net8.0\QuanLyPhongMach18.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\bin\Debug\net8.0\QuanLyPhongMach18.DAL.deps.json
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\bin\Debug\net8.0\QuanLyPhongMach18.DAL.runtimeconfig.json
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\bin\Debug\net8.0\QuanLyPhongMach18.DAL.dll
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\bin\Debug\net8.0\QuanLyPhongMach18.DAL.pdb
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\bin\Debug\net8.0\QuanLyPhongMach18.Common.dll
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\bin\Debug\net8.0\QuanLyPhongMach18.Common.pdb
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\obj\Debug\net8.0\QuanLyPh.B397AF27.Up2Date
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\obj\Debug\net8.0\QuanLyPhongMach18.DAL.dll
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\obj\Debug\net8.0\refint\QuanLyPhongMach18.DAL.dll
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\obj\Debug\net8.0\QuanLyPhongMach18.DAL.pdb
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\obj\Debug\net8.0\QuanLyPhongMach18.DAL.genruntimeconfig.cache
+C:\Users\HP\source\repos\QuanLyPhongMach18\QuanLyPhongMach18.DAL\obj\Debug\net8.0\ref\QuanLyPhongMach18.DAL.dll

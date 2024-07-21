@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QuanLyPhongMach18.Web.props" />
+</Project>
